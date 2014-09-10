@@ -8,6 +8,8 @@
 
 **Medoo.min.php** - Database object for interacting with the database: http://medoo.in/
 
+**MovieObject.php** - Movies object with accessors and mutators. 
+
 ## Usage
 
 1. Download master zip-file.
